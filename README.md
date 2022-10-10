@@ -1,4 +1,4 @@
-#E-commerce project based on the MERN stack.
+# E-commerce project based on the MERN stack.
 
 Features:
 - Fully responsive front-end made with React
