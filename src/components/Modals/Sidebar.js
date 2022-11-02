@@ -1,6 +1,6 @@
 import React from 'react';
 import { HiMenuAlt3 } from 'react-icons/hi';
-import { links } from '../../dataNav';
+import { links } from '../../data/dataNav';
 import { Link } from 'react-router-dom';
 import { BsCart3 } from 'react-icons/bs';
 

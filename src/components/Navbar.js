@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { BsCart3 } from 'react-icons/bs';
 import { HiMenuAlt2 } from 'react-icons/hi';
-import { links } from '../dataNav';
+import { links } from '../data/dataNav';
 import Sidebar from './Modals/Sidebar';
 const Navbar = () => {
   const [showSidebar, setShowSidebar] = useState(false);
